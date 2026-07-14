@@ -8,7 +8,7 @@
 
 ### 🚀 Featured Projects
 
-
+            
 
 - 🔬 **[ResearchPulse](https://github.com/vedantgonbare/researchpulse)** — FastAPI + Redis-cached academic paper tracker with AI summarization → [Live Demo](https://researchpulse-ed5h.onrender.com/docs)
 - ⚡ **[TaskQueue](https://github.com/vedantgonbare/task-queue)** — Distributed task queue with Redis pub/sub + real-time WebSocket dashboard
