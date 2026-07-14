@@ -8,12 +8,7 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/vedantgonbare/researchpulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vedantgonbare&repo=researchpulse&theme=tokyonight" /></a>
-<a href="https://github.com/vedantgonbare/task-queue"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vedantgonbare&repo=task-queue&theme=tokyonight" /></a>
-
-</div>
 
 - 🔬 **[ResearchPulse](https://github.com/vedantgonbare/researchpulse)** — FastAPI + Redis-cached academic paper tracker with AI summarization → [Live Demo](https://researchpulse-ed5h.onrender.com/docs)
 - ⚡ **[TaskQueue](https://github.com/vedantgonbare/task-queue)** — Distributed task queue with Redis pub/sub + real-time WebSocket dashboard
